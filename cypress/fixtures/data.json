@@ -1,5 +1,17 @@
 {
-  "name": "",
-  "email": "",
-  "password": ""
+  "Firstname": "Suraksha",
+  "Lastname": "Sharma",
+  "Newemail": "qaninja01@gmail.com",
+  "Password": "Presensoft0!",
+  "Existingemail": "qaninja04@gmail.com",
+  "DayOfBirth": "1",
+  "MonthOfBirth": "4",
+  "YearOfBirth": "1996",
+  "Company": "Somecompany",
+  "Address": "Boston",
+  "City": "Boston",
+  "State":"Massachusetts",
+  "Postcode": 22713,
+  "Phone_mobile": 9876543210
+
 }

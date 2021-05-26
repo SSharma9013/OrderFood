@@ -1,0 +1,16 @@
+{
+    "URL":"http://automationpractice.com",
+    "LoginButtonElement":".login",
+    "CreateEmailElement":"#email_create",
+    "CreateAnAccountElement":"#SubmitCreate > span",
+    "ElementErrorWhileCreateingAccount":"#create_account_error",
+    "loginEmail":"#email",
+    "LogInPassword":"#passwd",
+    "LoginSubmitButton":"#SubmitLogin > span",
+    "ErrorMessageForLogin":"#center_column > :nth-child(2)",
+    "ErrorMessageForExistingEmail":"An account using this email address has already been registered. Please enter a valid password or request a new one.",
+    "ErrorMessageforInvalidEmail":"Invalid email address.",
+    "ErrorMessageforInvalidPassword":"Authentication failed.",
+    "SuccesfulLoginMessage":"Welcome to your account. Here you can manage all of your personal information and orders.",
+    "SuccessfulLandingOnRegistrationForm":"Your personal information"
+}

@@ -1,0 +1,16 @@
+---Step 1: Navigate to Foodmandu---
+---Step 2: Clicked on login button---
+---Step 1: Navigate to Foodmandu---
+---Step 2: Clicked on login button---
+--- Step 3: Entered the Username ---
+---Step 4: Entered the Password---
+---Step 5: Click on Submit button
+---Step 1: Navigate to Foodmandu---
+---Step 2: Clicked on login button---
+--- Step 3: Entered the Username ---
+---Step 4: Entered the Password---
+---Step 1: Navigate to Foodmandu---
+---Step 2: Clicked on login button---
+--- Step 3: Entered the Username ---
+---Step 4: Entered the Password---
+---Step 5: Click on Submit button

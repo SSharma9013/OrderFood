@@ -15,7 +15,11 @@ afterEach(function() {
 describe("Loginto Foodmandu", function(){
 
   it("Navigate to Foodmandu and login ", function(){
-  cy.visit('https://foodmandu.com/')
+  cy.visit('https://foodmandu.com/', {
+    auth: {
+      username: 'qaninja06@gmail.com',
+      password: 'Presensoft0',
+    }})
   cy.writeFile('./log.txt', '---Step 1: Navigate to Foodmandu---\n', { flag: 'a+' })
   })
 
