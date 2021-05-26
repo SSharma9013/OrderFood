@@ -12,5 +12,6 @@
     "ErrorMessageforInvalidEmail":"Invalid email address.",
     "ErrorMessageforInvalidPassword":"Authentication failed.",
     "SuccesfulLoginMessage":"Welcome to your account. Here you can manage all of your personal information and orders.",
-    "SuccessfulLandingOnRegistrationForm":"Your personal information"
+    "SuccessfulLandingOnRegistrationForm":"Your personal information",
+    "AccountInfo":".info-account"
 }

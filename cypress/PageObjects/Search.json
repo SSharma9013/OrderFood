@@ -1,0 +1,14 @@
+{
+    "SearchgBar":"#search_query_top",
+    "Dress":"Dress",
+    "SearchProductElement":":nth-child(1) > .product-container > .right-block > h5 > .product-name",
+    "SerchButton":"#searchbox > .btn",
+    "SechResult":".heading-counter",
+    "DressTitle":"#layer_cart_product_title",
+    "CheckOut":".button-container > .button-medium > span",
+    "CartCheckOut":".cart_navigation > .button > span",
+    "DressName":"Printed Summer Dress",
+    "Logout":".logout",
+    "SearchResultMessage":" results have been found.",
+    "AddToCart":":nth-child(1) > .product-container > .right-block > .button-container > .ajax_add_to_cart_button > span"
+}

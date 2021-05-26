@@ -1,5 +1,5 @@
 {
-   "SubheadingElement":"':nth-child(1) > .page-subheading'",
+   "SubheadingElement":":nth-child(1) > .page-subheading",
    "SubheadingForRegistrationPage":"Your personal information",
    "SubmitButtonOnRegForm":"#submitAccount > span",
    "ErrorMessageAllEmptyFields":"There are 8 errors",
@@ -21,10 +21,11 @@
    "ErrorAlertBoxElement":".alert",
    "ErrorMessageForPhoneNumber":"You must register at least one phone number.",
    "ErrorMessageForFirstname":"firstname is required.",
-   "ErrorMessageForLastname":"lastname is required..",
+   "ErrorMessageForLastname":"lastname is required.",
    "ErrorMessageForPassword":"passwd is required.",
    "ErrorMessageForAddress":"address1 is required.",
    "ErrorMessageForCity":"city is required.",
    "ErrorMessageForPostcode":"The Zip/Postal code you've entered is invalid. It must follow this format: 00000",
-   "ErrorMessageForState":"This country requires you to choose a State."
+   "ErrorMessageForState":"This country requires you to choose a State.",
+   "ErrorMessageForEmail":"email is required"
 }
